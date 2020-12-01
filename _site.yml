@@ -1,0 +1,7 @@
+name: "Cancer symptom science and symptom management research"
+output_dir: "docs"
+navbar:
+  title: ""
+  left:
+    - text: "Cancer symptom science and symptom management research"
+      href: index.html
