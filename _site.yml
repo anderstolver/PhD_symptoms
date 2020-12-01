@@ -1,10 +1,7 @@
-name: "Statistical methods for the Biosciences I, block 2, 2020"
+name: "Cancer symptom science and symptom management research"
 output_dir: "docs"
 navbar:
   title: ""
   left:
-    - text: "Practical information (only SmB I)"
+    - text: "Cancer symptom science and symptom management research"
       href: index.html
-    - text: "Course plan (ApplStat + SmB I)"
-      href: courseplan.html
-      
